@@ -41,7 +41,13 @@
 
 - 🗺️ **RecycMap**: A real-time recycling map platform to locate and share recycling points.
 
+### 📊 GitHub Stats
 
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioSilvera22&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FabrizioSilvera22&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
  
   </b>
   </p>
@@ -55,10 +61,7 @@
 
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+
 
 ### 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-silvera-34b5342a4/)
