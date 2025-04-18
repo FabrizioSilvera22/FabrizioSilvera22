@@ -59,7 +59,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/fabrizio-silvera-34b5342a4/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   </a> 
-<a href="https://www.FabrizioSilvera22@gmail.com"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-<a href="https://www.instagram.com/rafael.azizovv/"><img src="https://img.shields.io/badge/-@rafael.azizovv_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+
