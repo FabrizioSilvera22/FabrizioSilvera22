@@ -37,6 +37,10 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
+### 💡 Personal Projects:
+
+- 🗺️ **RecycMap**: A real-time recycling map platform to locate and share recycling points.
+
 
  
   </b>
@@ -47,14 +51,7 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/FabrizioSilvera22">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
 
 
@@ -62,12 +59,10 @@
   <br/>
    <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+
+### 📫 Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-silvera-34b5342a4/)
+📧 Email: FabrizioSilvera22@gmail.com
   
   
-  ### 🤝🏻 &nbsp;Connect with Me
-
-
-<a href="https://www.linkedin.com/in/fabrizio-silvera-34b5342a4/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-  </a> 
 
